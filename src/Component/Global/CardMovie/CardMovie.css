@@ -1,0 +1,28 @@
+.cardmovie {
+    margin: 8px;
+    text-decoration: none;
+    display: block;
+    color: blanchedalmond;
+}
+
+.thumb {
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.thumb img {
+    width: 100%;
+    height: auto;
+}
+.number p{
+    font-size: 12px;
+}
+.d-flex{
+    justify-content: space-between;
+}
+.rate>i{
+    margin: 0 4px;
+}
+.fa-star{
+    color: yellow;
+}
